@@ -1,6 +1,0 @@
-collections:
-  2021-virtual-information-session:
-    output: true
-    order:
-      - 2021-virtual-information-session.md
-      - list-of-participating-agencies.md
