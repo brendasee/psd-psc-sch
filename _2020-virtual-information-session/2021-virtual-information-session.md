@@ -1,6 +1,6 @@
 ---
-title: 2021 Virtual Information Session
-permalink: /2021-virtual-information-session/2021-virtual-information-session/
+title: 2020 Virtual Information Session
+permalink: /2020-virtual-information-session/2020-virtual-information-session/
 ---
 Join us at the 2021 PSC Scholarships Virtual Information Session to understand and find out which scholarship is most suitable for you.
 
