@@ -78,7 +78,7 @@ Here’s the list of the frequently asked questions (FAQs) from past information
   Prospective applicants can look up the different type of scholarships on the PSC website or the respective agency’s website and compare the career pathway, the work they do and other factors (such as course of study, country of study etc) to make an informed decision based on their career aspirations.<br>\
   As it is essentially a career in the Public Service they are applying for, the scholarship being one of the avenues into Public Service, applicants should do their research on the career, sector and organization they hope to work in before applying for the relevant scholarships.<br><br>
 
-*except for scholarship holders on the Legal Service, Medicine/Dentistry and Uniformed careers
+  *except for scholarship holders on the Legal Service, Medicine/Dentistry and Uniformed careers
 
 
 **National Service**
