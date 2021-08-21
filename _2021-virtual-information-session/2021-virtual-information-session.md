@@ -4,9 +4,9 @@ permalink: /2021-virtual-information-session/2021-virtual-information-session/
 ---
 Join us at the 2021 PSC Scholarships Virtual Information Session to understand and find out which scholarship is most suitable for you.
 
-Date: Saturday, 11 September 2021
-Time: 10am to 5.50pm
-Programme Line-up (tbc)
+* Date: Saturday, 11 September 2021
+* Time: 10am to 5.30pm
+* Programme Line-up (tbc)
 
 
 
@@ -73,16 +73,17 @@ Here’s the list of the frequently asked questions (FAQs) from past information
 **Career Paths**
 
 * **What are the differences between PSC Scholarships and Ministry scholarships? How do the career paths differ between the two?**\
-  The key differences between the PSC Scholarships and other Ministry scholarships lie in the talent development programme and career pathway. 
-  Most PSC Scholarship holders* are auto-emplaced on the Public Service Leadership Programme (PSLP) General Phases and will take on different job roles across 2-3 sectors within the first 8 years of their career. In contrast, Ministry scholarship holders tend to start work in the specific ministry, embark on their agency’s talent development programme, and future deployments also tend to be within that sector. 
-  Prospective applicants can look up the different type of scholarships on the PSC website or the respective agency’s website and compare the career pathway, the work they do and other factors (such as course of study, country of study etc) to make an informed decision based on their career aspirations. 
-  As it is essentially a career in the Public Service they are applying for, the scholarship being one of the avenues into Public Service, applicants should do their research on the career, sector and organization they hope to work in before applying for the relevant scholarships.
+  The key differences between the PSC Scholarships and other Ministry scholarships lie in the talent development programme and career pathway.<br>\
+  Most PSC Scholarship holders* are auto-emplaced on the Public Service Leadership Programme (PSLP) General Phases and will take on different job roles across 2-3 sectors within the first 8 years of their career. In contrast, Ministry scholarship holders tend to start work in the specific ministry, embark on their agency’s talent development programme, and future deployments also tend to be within that sector.<br>\
+  Prospective applicants can look up the different type of scholarships on the PSC website or the respective agency’s website and compare the career pathway, the work they do and other factors (such as course of study, country of study etc) to make an informed decision based on their career aspirations.<br>\
+  As it is essentially a career in the Public Service they are applying for, the scholarship being one of the avenues into Public Service, applicants should do their research on the career, sector and organization they hope to work in before applying for the relevant scholarships.<br><br>
+
 *except for scholarship holders on the Legal Service, Medicine/Dentistry and Uniformed careers
 
 
 **National Service**
 
 * **Should I apply for the scholarship now or only after I have completed my National Service?**\
-  Those with NS obligations are highly encouraged to start early and submit their scholarship applications before enlisting in NS as they may not have the time to complete the submission of the application form, essay, supporting documents and video presentation afterwards.
-  Additionally, enlisted applicants may find it difficult to attend the psychometric test, psychological interview and PSC interview when their schedule and trainings conflict with the sessions available. There are limited sessions each cycle, and there may not always be available slots on Saturdays.
+  Those with NS obligations are highly encouraged to start early and submit their scholarship applications before enlisting in NS as they may not have the time to complete the submission of the application form, essay, supporting documents and video presentation afterwards.<br>\
+  Additionally, enlisted applicants may find it difficult to attend the psychometric test, psychological interview and PSC interview when their schedule and trainings conflict with the sessions available. There are limited sessions each cycle, and there may not always be available slots on Saturdays.<br>\
   If applicants are unable to register for the assessment sessions within the given the timeframe, we will not be able to shortlist them further during the current scholarship cycle.
