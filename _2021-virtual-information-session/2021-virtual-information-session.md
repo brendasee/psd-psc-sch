@@ -6,8 +6,8 @@ Join us at the 2021 PSC Scholarships Virtual Information Session to understand a
 
 * Date: Saturday, 11 September 2021
 * Time: 10am to 5.30pm
-* Programme Line-up (tbc)
 
+![Programme Line-up](/images/MeIS Programme (Pic).png)
 
 
 
