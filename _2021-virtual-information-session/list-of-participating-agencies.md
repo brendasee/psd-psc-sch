@@ -8,8 +8,8 @@ permalink: /2021-virtual-information-session/list-of-participating-agencies/
 * Accountant-General's Department (AGD)
 * Auditor-General's Office (AGO)
 * Ministry of Communications and Information (MCI) 
+* Ministry of Law (MINLAW)
 * Public Service Commission (PSC)
-* Singapore Legal Service (SLS)
 
 
 > ## Economy Building
@@ -21,13 +21,11 @@ permalink: /2021-virtual-information-session/list-of-participating-agencies/
 
 * Cyber Security Agency of Singapore (CSA)
 * Defence Science and Technology Agency (DSTA)
-* Energy Market Authority (EMA)
 * Government Technology Agency of Singapore (GovTech)
 * Home Team Science and Technology Agency (HTX)
 * Housing and Development Board (HDB)
+* JTC Corporation (JTC)
 * Infocomm Media Development Authority (IMDA)
-* Land Transport Authority (LTA)
-* National Environment Agency (NEA)
 * Public Utilities Board (PUB)
 
 
