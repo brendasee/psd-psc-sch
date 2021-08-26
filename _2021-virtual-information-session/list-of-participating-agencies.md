@@ -8,8 +8,8 @@ permalink: /2021-virtual-information-session/list-of-participating-agencies/
 * Accountant-General's Department (AGD)
 * Auditor-General's Office (AGO)
 * Ministry of Communications and Information (MCI) 
-* Ministry of Law (MINLAW)
 * Public Service Commission (PSC)
+* Singapore Legal Service (SLS)
 
 
 > ## Economy Building
