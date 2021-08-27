@@ -31,7 +31,7 @@ permalink: /2021-virtual-information-session/list-of-participating-agencies/
 
 > ## Security
 
-* Ministry of Defence (MINDEF)
+* Ministry of Defence (MINDEF) - DSO National Laboratories / Centre for Strategic Infocomm Technologies
 * Ministry of Foreign Affairs (MFA)
 * Ministry of Home Affairs (MHA)
 
