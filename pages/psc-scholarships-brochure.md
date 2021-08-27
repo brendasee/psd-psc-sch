@@ -8,4 +8,4 @@ permalink: /PSC-Scholarships-Brochure/
 ![PSC Scholarships e-brochure](/images/brochure-cover.jpg)
 
 
-[Download](/images/2021-PSCScholarships-Brochure.pdf)
+[Download](https://go.gov.sg/pscsbrochure)
